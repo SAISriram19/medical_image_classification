@@ -1,5 +1,6 @@
 # 🏥 Medical Image Classifier
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-medical__image__classification-blue?logo=github)](https://github.com/SAISriram19/medical_image_classification)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Gradio](https://img.shields.io/badge/Gradio-Web%20Interface-orange)](https://gradio.app/)
@@ -41,7 +42,7 @@ Advanced AI system for classifying images as medical or non-medical using state-
 ### Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/SAISriram19/medical_image_classification.git
 cd medical-image-classifier
 
 # Install dependencies
