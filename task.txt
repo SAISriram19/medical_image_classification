@@ -1,0 +1,47 @@
+Nihin Media K.K. Competency Assessment 
+: Machine Learning Engineer (GenAI focus) 
+ 
+�
+�
+ Task Overview 
+Design and implement a machine learning model that can classify images as either medical 
+or non-medical from a mixed dataset.  
+⚠
+ You are free to utilize AI tools, but DO NOT simply copy and paste the AI generated 
+contents without your thoughts and insights. It will be automatically disqualified. 
+�
+�
+ Task 1: Medical vs. Non-Medical Image Classifier 
+Objective: Build a machine learning pipeline to automatically classify images as medical 
+or non-medical from a mixed set of inputs. The goal is to evaluate your understanding of 
+GenAI tools, classical ML techniques, and your ability to optimize for accuracy, speed, 
+and scalability. 
+Example: 
+Non-medical Images:   Landscapes, architecture, nature, animals etc., 
+Medical Images: Images of X-rays, MRIs, CT scans, or ultrasound 
+Task Details 
+● Input: Code should accept either a website URL or a PDF with medical and 
+non-medical images as input. Note: Please consider any publicly available medical 
+website or PDFs with medical images for testing 
+● Output: For each image extracted from URL or PDF input, classify it as: 
+○ “medical” or  
+○ “non-medical” 
+You are free to choose your own approach — classical ML, CNNs, pretrained models or 
+GenAI-based techniques. Note: Preference will be given to open source models. 
+�
+�
+ Submission Format: 
+● Public GitHub link with clean code and instructions 
+○ A working script or notebook that takes a URL or PDF as input, extracts all 
+the images and outputs predicted labels 
+○ A short report or README that includes: 
+■ Your approach and reasoning 
+■ Accuracy results on a small validation/test set 
+■ Performance/efficiency considerations 
+● Submit 2 mins video (.mp4) showcasing high level process 
+✏
+ Evaluation Criteria: 
+● Classification Accuracy 
+● Inference Speed / Processing Time  
+● Scalability / Model Efficiency (size, performance) 
+● Clarity of Approach & Documentation
